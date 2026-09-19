@@ -29,10 +29,11 @@ AGENTS.local.md
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # OS
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
